@@ -1,91 +1,102 @@
-# 🏋️ Fitness Management System
+# 🏋️ Gym / Fitness Website
 
 ## 📌 Project Overview
 
-The Fitness Management System is a web-based application designed to manage gym operations efficiently. It helps in managing members, trainers, workout plans, and fitness records.
+This is a responsive Gym/Fitness Website designed to showcase gym services, trainers, workout classes, and pricing plans. The website provides users with information about the gym and allows them to explore different fitness programs.
+
+This project focuses on frontend development using modern UI design and structured layout.
+
+---
+
+## 🌐 Pages Included
+
+* 🏠 Home Page
+* ℹ️ About Page
+* 🏋️ Classes Page
+* 💰 Pricing Page
+* 🧑‍🏫 Trainers Page
+* 📞 Contact Page
+* 📝 Registration Form
 
 ---
 
 ## 🚀 Features
 
-* 👤 User Registration & Login
-* 🧑‍🏫 Trainer Management
-* 📋 Workout Plan Management
-* 💳 Membership Handling
-* 📊 Dashboard for Admin
-* 🔒 Secure Authentication
+* 📱 Fully Responsive Design
+* 🎨 Attractive UI with CSS Styling
+* 🧭 Smooth Navigation Between Pages
+* 🖼️ Image-Based Sections (Gym, Trainers, Clients)
+* 📋 User Form for Registration/Contact
+* ⚡ Interactive Elements using JavaScript
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Frontend: HTML, CSS, JavaScript
-* Backend: PHP
-* Database: MongoDB
-* Tools: XAMPP / VS Code
+* HTML5
+* CSS3
+* JavaScript
 
 ---
 
 ## 📂 Project Structure
 
 ```
-/project-folder
-│── /frontend
-│── /backend
-│── /database
-│── index.php
-│── config.php
+gym-website/
+│── index.html
+│── Home.html
+│── About.html
+│── class.html
+│── trainer.html
+│── price.html
+│── Contact.html
+│── Form.html
+│── styles.css
+│── main.js
+│── /assets (images)
 ```
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ How to Run the Project
 
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/fitness-management-system.git
-```
-
-2. Move to project folder:
+1. Download or clone the repository:
 
 ```
-cd fitness-management-system
+git clone https://github.com/your-username/gym-website.git
 ```
 
-3. Start XAMPP (Apache & MySQL)
+2. Open the project folder
 
-4. Configure database in `config.php`
+3. Run the project:
 
-5. Run project:
-
-```
-http://localhost/fitness-management-system
-```
+* Open `index.html` in your browser
 
 ---
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
+(Add screenshots of your Home, Trainer, Pricing pages here)
 
 ---
 
-## 🎯 Future Enhancements
+## 🎯 Future Improvements
 
-* Payment Gateway Integration
-* Mobile App Version
-* AI-based Fitness Recommendations
+* Add Backend (PHP / Node.js)
+* Database Integration (MongoDB / MySQL)
+* User Login & Authentication
+* Online Membership System
+* Payment Integration
 
 ---
 
 ## 🙋‍♂️ Author
 
 Vedant Surve
-BSc IT Student | Web Developer
+BSc IT Student | Aspiring Web Developer
 
 ---
 
 ## 📄 License
 
-This project is for educational purposes only.
+This project is created for educational purposes.
