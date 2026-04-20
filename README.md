@@ -63,7 +63,7 @@ gym-website/
 1. Download or clone the repository:
 
 ```
-git clone https://github.com/your-username/gym-website.git
+[git clone https://github.com/your-username/gym-website.git](https://github.com/suvedant/Fitness_management_website)
 ```
 
 2. Open the project folder
