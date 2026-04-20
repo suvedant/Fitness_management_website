@@ -76,7 +76,7 @@ git clone https://github.com/your-username/gym-website.git
 
 ## 📸 Screenshots
 
-(Add screenshots of your Home, Trainer, Pricing pages here)
+<img width="1603" height="828" alt="image" src="https://github.com/user-attachments/assets/2e6c9417-2140-4b4b-8838-5fd167e3b72e" />
 
 ---
 
